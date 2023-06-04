@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekaserkan&label=Profile%20views&color=0e75b6&style=flat " alt="бекасеркан" /> </p>
 
-- 🌱 В настоящее время я учусь на ** Front-end разработчика**
+- 🌱 В настоящее время сам себя обучаю Front-end 
 
 - 👨‍💻 Все мои проекты доступны по адресу [https://github.com/bekaserkan ](https://github.com/bekaserkan )
 
