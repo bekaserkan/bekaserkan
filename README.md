@@ -1,4 +1,4 @@
-<h1 align="center"> Привет 👋, я бекасеркан</h1>
+<h1 align="center"> Привет 👋, я Бека</h1>
 <h3 align="center"> Я интерфейсный разработчик</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekaserkan&label=Profile%20views&color=0e75b6&style=flat " alt="бекасеркан" /> </p>
