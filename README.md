@@ -11,7 +11,7 @@
 
 <h3 align="left"> Связаться со мной:</h3>
 <p align="left">
-<a href="https://instagram.com/k_bekas_ " target= "blank"><выравнивание по img="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="k_bekas_" height="30" width="40" /></a>
+<a href="https://instagram.com/k_bekas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_bekas_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> Языки и инструменты:</h3>
